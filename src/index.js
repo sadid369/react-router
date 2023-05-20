@@ -37,7 +37,7 @@ function Learn() {
   return (
     <div>
       <h1>Learn </h1>
-      <h4>All Course are listed here </h4>
+      <h4>All Courses are listed here </h4>
       <Link className={`btn btn-success`} to="/learn/courses">
         courses
       </Link>
